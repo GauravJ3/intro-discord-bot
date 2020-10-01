@@ -34,7 +34,9 @@
 ## Join a Bot to a server
   * Make a request in browser to 
     * [to-do] update a link
-
+# Deploy on heroku 
+  * <https://www.youtube.com/watch?v=24zueyPoHMQ>
+  
 # discord.js docs/examples
   * <https://discord.js.org/#/docs/main/stable/general/welcome>
   * <https://discordjs.guide/#/popular-topics/miscellaneous-examples>
