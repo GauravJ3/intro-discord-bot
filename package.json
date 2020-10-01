@@ -1,0 +1,24 @@
+{
+  "name": "intro-discord-bot",
+  "version": "1.0.0",
+  "description": "discord-bot-for-fun",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/GauravJ3/intro-discord-bot"
+  },
+  "author": "Gaurav Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "fortune-tweetable": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0"
+  }
+}
