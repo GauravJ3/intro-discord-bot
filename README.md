@@ -1,9 +1,9 @@
 # Intro-discord-bot
 
 # TODO
-- [ ] Setup eslint
+- [X] Setup eslint
 - [ ] Refactor CONST variables to .env
-       - [ ] Create a config object, load from .env
+    - [X] Create a config object, load from .env
     - [ ] Refactor methods to use a local db like nedb
         - [ ] Listen for new users
             - [ ] Add to db with:
